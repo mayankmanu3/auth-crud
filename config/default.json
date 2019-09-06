@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Mayank:mayank03@govconn-xbqjp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "biggestlie",
+  "githubClientId": "344e2f95c43220a3ccd7",
+  "githubSecret": "e925825b02a5c220d36c97baa507a36180747f32"
+}
